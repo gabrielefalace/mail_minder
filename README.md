@@ -1,3 +1,3 @@
 ### Mail Minder (mail-based reminder)
 
-foifjfiw
+A simple script to send a (templated) email to many recipients.
